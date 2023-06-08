@@ -1,19 +1,26 @@
 {
-    "campaign": "sale-balowe-v2",
+    "campaign": "cyber",
     "keys": {
-        "category1": [
-         "key1",
-         "key2"
+        "cyber": [
+         "cyberbezpieczeństwo",
+         "cyber bezpieczeństwo",
+         "offensive security",
+         "cyber",
+         "cyber-security",
+         "cyber security"
         ], 
         
-        "category2": [
-          "key1",
-          "key2"
+        "pentest": [
+          "penetracyj",
+          "pentest"
+        ],
+
+        "red-team":[
+            "red team",
+            "red-team"
         ]
     },
     "ban_list": [
-        "banned1",
-        "banned2",
-        "banned3"
+    
     ]
 }

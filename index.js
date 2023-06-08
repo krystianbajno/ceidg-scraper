@@ -140,9 +140,6 @@ const searchCompany = async (companyName, voivodeship, city, browser) => {
 }
 
 (async () => {
-  const CHROME_INSTANCES = 3
-  const CHUNK_SIZE = keys.length / CHROME_INSTANCES
-
   const voivodeships_cities = JSON.parse(fs.readFileSync('./data/cities.json'))
   const config = JSON.parse(fs.readFileSync('./config.json'))
   const campaign = config.campaign
@@ -164,8 +161,11 @@ const searchCompany = async (companyName, voivodeship, city, browser) => {
   })
 
   if (!fs.existsSync(`cache/${campaign}`)) {
-    fs.mkdir(`cache/${campaign}`);
+    fs.mkdirSync(`cache/${campaign}`);
   }
+
+  const CHROME_INSTANCES = 3
+  const CHUNK_SIZE = keys.length / CHROME_INSTANCES
 
   const chunks = keys.map((_, i, all) => all.slice(CHUNK_SIZE*i, CHUNK_SIZE*i+CHUNK_SIZE)).filter(x=>x.length)
 
