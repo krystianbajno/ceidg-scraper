@@ -1,0 +1,4598 @@
+[
+    {
+      "id": 1,
+      "city": "Bolesławiec",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 2,
+      "city": "Nowogrodziec",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 3,
+      "city": "Bielawa",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 4,
+      "city": "Dzierżoniów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 5,
+      "city": "Pieszyce",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 6,
+      "city": "Piława Górna",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 7,
+      "city": "Niemcza",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 8,
+      "city": "Głogów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 9,
+      "city": "Góra",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 10,
+      "city": "Wąsosz",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 11,
+      "city": "Jawor",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 12,
+      "city": "Bolków",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 13,
+      "city": "Karpacz",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 14,
+      "city": "Kowary",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 15,
+      "city": "Piechowice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 16,
+      "city": "Szklarska Poręba",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 17,
+      "city": "Kamienna Góra",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 18,
+      "city": "Lubawka",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 19,
+      "city": "Duszniki-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 20,
+      "city": "Kłodzko",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 21,
+      "city": "Kudowa-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 22,
+      "city": "Nowa Ruda",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 23,
+      "city": "Polanica-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 24,
+      "city": "Bystrzyca Kłodzka",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 25,
+      "city": "Lądek-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 26,
+      "city": "Międzylesie",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 27,
+      "city": "Radków",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 28,
+      "city": "Stronie Śląskie",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 29,
+      "city": "Szczytna",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 30,
+      "city": "Chojnów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 31,
+      "city": "Prochowice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 32,
+      "city": "Lubań",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 33,
+      "city": "Świeradów-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 34,
+      "city": "Leśna",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 35,
+      "city": "Olszyna",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 36,
+      "city": "Lubin",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 37,
+      "city": "Ścinawa",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 38,
+      "city": "Gryfów Śląski",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 39,
+      "city": "Lubomierz",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 40,
+      "city": "Lwówek Śląski",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 41,
+      "city": "Mirsk",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 42,
+      "city": "Wleń",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 43,
+      "city": "Milicz",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 44,
+      "city": "Oleśnica",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 45,
+      "city": "Bierutów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 46,
+      "city": "Międzybórz",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 47,
+      "city": "Syców",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 48,
+      "city": "Twardogóra",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 49,
+      "city": "Oława",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 50,
+      "city": "Jelcz-Laskowice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 51,
+      "city": "Chocianów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 52,
+      "city": "Polkowice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 53,
+      "city": "Przemków",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 54,
+      "city": "Strzelin",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 55,
+      "city": "Wiązów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 56,
+      "city": "Środa Śląska",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 57,
+      "city": "Świdnica",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 58,
+      "city": "Świebodzice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 59,
+      "city": "Jaworzyna Śląska",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 60,
+      "city": "Strzegom",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 61,
+      "city": "Żarów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 62,
+      "city": "Oborniki Śląskie",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 63,
+      "city": "Prusice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 64,
+      "city": "Trzebnica",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 65,
+      "city": "Żmigród",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 66,
+      "city": "Boguszów-Gorce",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 67,
+      "city": "Jedlina-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 68,
+      "city": "Szczawno-Zdrój",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 69,
+      "city": "Głuszyca",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 70,
+      "city": "Mieroszów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 71,
+      "city": "Brzeg Dolny",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 72,
+      "city": "Wołów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 73,
+      "city": "Kąty Wrocławskie",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 74,
+      "city": "Sobótka",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 75,
+      "city": "Siechnice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 76,
+      "city": "Bardo",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 77,
+      "city": "Ząbkowice Śląskie",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 78,
+      "city": "Ziębice",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 79,
+      "city": "Złoty Stok",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 80,
+      "city": "Zawidów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 81,
+      "city": "Zgorzelec",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 82,
+      "city": "Bogatynia",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 83,
+      "city": "Pieńsk",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 84,
+      "city": "Węgliniec",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 85,
+      "city": "Wojcieszów",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 86,
+      "city": "Złotoryja",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 87,
+      "city": "Świerzawa",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 88,
+      "city": "Jelenia Góra",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 89,
+      "city": "Legnica",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 90,
+      "city": "Wrocław",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 91,
+      "city": "Wałbrzych",
+      "voivodeship": "DOLNOŚLĄSKIE"
+    },
+    {
+      "id": 92,
+      "city": "Aleksandrów Kujawski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 93,
+      "city": "Ciechocinek",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 94,
+      "city": "Nieszawa",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 95,
+      "city": "Brodnica",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 96,
+      "city": "Górzno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 97,
+      "city": "Jabłonowo Pomorskie",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 98,
+      "city": "Koronowo",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 99,
+      "city": "Solec Kujawski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 100,
+      "city": "Chełmno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 101,
+      "city": "Golub-Dobrzyń",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 102,
+      "city": "Kowalewo Pomorskie",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 103,
+      "city": "Łasin",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 104,
+      "city": "Radzyń Chełmiński",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 105,
+      "city": "Inowrocław",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 106,
+      "city": "Gniewkowo",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 107,
+      "city": "Janikowo",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 108,
+      "city": "Kruszwica",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 109,
+      "city": "Pakość",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 110,
+      "city": "Lipno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 111,
+      "city": "Dobrzyń nad Wisłą",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 112,
+      "city": "Skępe",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 113,
+      "city": "Mogilno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 114,
+      "city": "Strzelno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 115,
+      "city": "Kcynia",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 116,
+      "city": "Mrocza",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 117,
+      "city": "Nakło nad Notecią",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 118,
+      "city": "Szubin",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 119,
+      "city": "Radziejów",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 120,
+      "city": "Piotrków Kujawski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 121,
+      "city": "Rypin",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 122,
+      "city": "Kamień Krajeński",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 123,
+      "city": "Sępólno Krajeńskie",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 124,
+      "city": "Więcbork",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 125,
+      "city": "Nowe",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 126,
+      "city": "Świecie",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 127,
+      "city": "Chełmża",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 128,
+      "city": "Tuchola",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 129,
+      "city": "Wąbrzeźno",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 130,
+      "city": "Kowal",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 131,
+      "city": "Brześć Kujawski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 132,
+      "city": "Chodecz",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 133,
+      "city": "Izbica Kujawska",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 134,
+      "city": "Lubień Kujawski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 135,
+      "city": "Lubraniec",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 136,
+      "city": "Barcin",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 137,
+      "city": "Janowiec Wielkopolski",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 138,
+      "city": "Łabiszyn",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 139,
+      "city": "Żnin",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 140,
+      "city": "Bydgoszcz",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 141,
+      "city": "Grudziądz",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 142,
+      "city": "Toruń",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 143,
+      "city": "Włocławek",
+      "voivodeship": "KUJAWSKO-POMORSKIE"
+    },
+    {
+      "id": 144,
+      "city": "Międzyrzec Podlaski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 145,
+      "city": "Terespol",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 146,
+      "city": "Biłgoraj",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 147,
+      "city": "Frampol",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 148,
+      "city": "Józefów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 149,
+      "city": "Tarnogród",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 150,
+      "city": "Rejowiec Fabryczny",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 151,
+      "city": "Siedliszcze",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 152,
+      "city": "Hrubieszów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 153,
+      "city": "Janów Lubelski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 154,
+      "city": "Modliborzyce",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 155,
+      "city": "Krasnystaw",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 156,
+      "city": "Kraśnik",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 157,
+      "city": "Annopol",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 158,
+      "city": "Urzędów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 159,
+      "city": "Lubartów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 160,
+      "city": "Kock",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 161,
+      "city": "Ostrów Lubelski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 162,
+      "city": "Bełżyce",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 163,
+      "city": "Bychawa",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 164,
+      "city": "Łęczna",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 165,
+      "city": "Łuków",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 166,
+      "city": "Stoczek Łukowski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 167,
+      "city": "Opole Lubelskie",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 168,
+      "city": "Poniatowa",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 169,
+      "city": "Parczew",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 170,
+      "city": "Puławy",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 171,
+      "city": "Kazimierz Dolny",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 172,
+      "city": "Nałęczów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 173,
+      "city": "Radzyń Podlaski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 174,
+      "city": "Dęblin",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 175,
+      "city": "Ryki",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 176,
+      "city": "Świdnik",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 177,
+      "city": "Piaski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 178,
+      "city": "Tomaszów Lubelski",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 179,
+      "city": "Lubycza Królewska",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 180,
+      "city": "Łaszczów",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 181,
+      "city": "Tyszowce",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 182,
+      "city": "Włodawa",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 183,
+      "city": "Krasnobród",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 184,
+      "city": "Szczebrzeszyn",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 185,
+      "city": "Zwierzyniec",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 186,
+      "city": "Biała Podlaska",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 187,
+      "city": "Chełm",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 188,
+      "city": "Lublin",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 189,
+      "city": "Zamość",
+      "voivodeship": "LUBELSKIE"
+    },
+    {
+      "id": 190,
+      "city": "Kostrzyn nad Odrą",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 191,
+      "city": "Witnica",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 192,
+      "city": "Gubin",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 193,
+      "city": "Krosno Odrzańskie",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 194,
+      "city": "Międzyrzecz",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 195,
+      "city": "Skwierzyna",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 196,
+      "city": "Trzciel",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 197,
+      "city": "Nowa Sól",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 198,
+      "city": "Bytom Odrzański",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 199,
+      "city": "Kożuchów",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 200,
+      "city": "Nowe Miasteczko",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 201,
+      "city": "Cybinka",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 202,
+      "city": "Ośno Lubuskie",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 203,
+      "city": "Rzepin",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 204,
+      "city": "Słubice",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 205,
+      "city": "Dobiegniew",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 206,
+      "city": "Drezdenko",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 207,
+      "city": "Strzelce Krajeńskie",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 208,
+      "city": "Lubniewice",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 209,
+      "city": "Sulęcin",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 210,
+      "city": "Torzym",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 211,
+      "city": "Świebodzin",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 212,
+      "city": "Zbąszynek",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 213,
+      "city": "Babimost",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 214,
+      "city": "Czerwieńsk",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 215,
+      "city": "Kargowa",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 216,
+      "city": "Nowogród Bobrzański",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 217,
+      "city": "Sulechów",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 218,
+      "city": "Gozdnica",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 219,
+      "city": "Żagań",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 220,
+      "city": "Iłowa",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 221,
+      "city": "Małomice",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 222,
+      "city": "Szprotawa",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 223,
+      "city": "Łęknica",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 224,
+      "city": "Żary",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 225,
+      "city": "Jasień",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 226,
+      "city": "Lubsko",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 227,
+      "city": "Sława",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 228,
+      "city": "Szlichtyngowa",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 229,
+      "city": "Wschowa",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 230,
+      "city": "Gorzów Wielkopolski",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 231,
+      "city": "Zielona Góra",
+      "voivodeship": "LUBUSKIE"
+    },
+    {
+      "id": 232,
+      "city": "Bełchatów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 233,
+      "city": "Zelów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 234,
+      "city": "Kutno",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 235,
+      "city": "Krośniewice",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 236,
+      "city": "Żychlin",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 237,
+      "city": "Łask",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 238,
+      "city": "Łęczyca",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 239,
+      "city": "Łowicz",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 240,
+      "city": "Koluszki",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 241,
+      "city": "Rzgów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 242,
+      "city": "Tuszyn",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 243,
+      "city": "Drzewica",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 244,
+      "city": "Opoczno",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 245,
+      "city": "Konstantynów Łódzki",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 246,
+      "city": "Pabianice",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 247,
+      "city": "Działoszyn",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 248,
+      "city": "Pajęczno",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 249,
+      "city": "Sulejów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 250,
+      "city": "Wolbórz",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 251,
+      "city": "Poddębice",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 252,
+      "city": "Uniejów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 253,
+      "city": "Radomsko",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 254,
+      "city": "Kamieńsk",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 255,
+      "city": "Przedbórz",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 256,
+      "city": "Rawa Mazowiecka",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 257,
+      "city": "Biała Rawska",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 258,
+      "city": "Sieradz",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 259,
+      "city": "Błaszki",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 260,
+      "city": "Warta",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 261,
+      "city": "Złoczew",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 262,
+      "city": "Tomaszów Mazowiecki",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 263,
+      "city": "Wieluń",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 264,
+      "city": "Wieruszów",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 265,
+      "city": "Zduńska Wola",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 266,
+      "city": "Szadek",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 267,
+      "city": "Głowno",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 268,
+      "city": "Ozorków",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 269,
+      "city": "Zgierz",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 270,
+      "city": "Aleksandrów Łódzki",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 271,
+      "city": "Stryków",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 272,
+      "city": "Brzeziny",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 273,
+      "city": "Łódź",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 274,
+      "city": "Piotrków Trybunalski",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 275,
+      "city": "Skierniewice",
+      "voivodeship": "ŁÓDZKIE"
+    },
+    {
+      "id": 276,
+      "city": "Bochnia",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 277,
+      "city": "Nowy Wiśnicz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 278,
+      "city": "Brzesko",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 279,
+      "city": "Czchów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 280,
+      "city": "Alwernia",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 281,
+      "city": "Chrzanów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 282,
+      "city": "Libiąż",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 283,
+      "city": "Trzebinia",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 284,
+      "city": "Dąbrowa Tarnowska",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 285,
+      "city": "Szczucin",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 286,
+      "city": "Gorlice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 287,
+      "city": "Biecz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 288,
+      "city": "Bobowa",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 289,
+      "city": "Krzeszowice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 290,
+      "city": "Skała",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 291,
+      "city": "Skawina",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 292,
+      "city": "Słomniki",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 293,
+      "city": "Świątniki Górne",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 294,
+      "city": "Limanowa",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 295,
+      "city": "Mszana Dolna",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 296,
+      "city": "Miechów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 297,
+      "city": "Dobczyce",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 298,
+      "city": "Myślenice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 299,
+      "city": "Sułkowice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 300,
+      "city": "Grybów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 301,
+      "city": "Krynica-Zdrój",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 302,
+      "city": "Muszyna",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 303,
+      "city": "Piwniczna-Zdrój",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 304,
+      "city": "Stary Sącz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 305,
+      "city": "Nowy Targ",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 306,
+      "city": "Szczawnica",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 307,
+      "city": "Rabka-Zdrój",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 308,
+      "city": "Bukowno",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 309,
+      "city": "Olkusz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 310,
+      "city": "Wolbrom",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 311,
+      "city": "Oświęcim",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 312,
+      "city": "Brzeszcze",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 313,
+      "city": "Chełmek",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 314,
+      "city": "Kęty",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 315,
+      "city": "Zator",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 316,
+      "city": "Nowe Brzesko",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 317,
+      "city": "Proszowice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 318,
+      "city": "Jordanów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 319,
+      "city": "Sucha Beskidzka",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 320,
+      "city": "Maków Podhalański",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 321,
+      "city": "Ciężkowice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 322,
+      "city": "Radłów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 323,
+      "city": "Ryglice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 324,
+      "city": "Tuchów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 325,
+      "city": "Wojnicz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 326,
+      "city": "Zakliczyn",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 327,
+      "city": "Żabno",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 328,
+      "city": "Zakopane",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 329,
+      "city": "Andrychów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 330,
+      "city": "Kalwaria Zebrzydowska",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 331,
+      "city": "Wadowice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 332,
+      "city": "Niepołomice",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 333,
+      "city": "Wieliczka",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 334,
+      "city": "Kraków",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 335,
+      "city": "Nowy Sącz",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 336,
+      "city": "Tarnów",
+      "voivodeship": "MAŁOPOLSKIE"
+    },
+    {
+      "id": 337,
+      "city": "Białobrzegi",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 338,
+      "city": "Wyśmierzyce",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 339,
+      "city": "Ciechanów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 340,
+      "city": "Glinojeck",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 341,
+      "city": "Garwolin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 342,
+      "city": "Łaskarzew",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 343,
+      "city": "Pilawa",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 344,
+      "city": "Żelechów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 345,
+      "city": "Gostynin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 346,
+      "city": "Milanówek",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 347,
+      "city": "Podkowa Leśna",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 348,
+      "city": "Grodzisk Mazowiecki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 349,
+      "city": "Grójec",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 350,
+      "city": "Mogielnica",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 351,
+      "city": "Nowe Miasto nad Pilicą",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 352,
+      "city": "Warka",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 353,
+      "city": "Kozienice",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 354,
+      "city": "Legionowo",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 355,
+      "city": "Serock",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 356,
+      "city": "Lipsko",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 357,
+      "city": "Łosice",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 358,
+      "city": "Maków Mazowiecki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 359,
+      "city": "Różan",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 360,
+      "city": "Mińsk Mazowiecki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 361,
+      "city": "Halinów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 362,
+      "city": "Kałuszyn",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 363,
+      "city": "Mrozy",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 364,
+      "city": "Sulejówek",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 365,
+      "city": "Mława",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 366,
+      "city": "Nowy Dwór Mazowiecki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 367,
+      "city": "Nasielsk",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 368,
+      "city": "Zakroczym",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 369,
+      "city": "Myszyniec",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 370,
+      "city": "Ostrów Mazowiecka",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 371,
+      "city": "Brok",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 372,
+      "city": "Józefów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 373,
+      "city": "Otwock",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 374,
+      "city": "Karczew",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 375,
+      "city": "Góra Kalwaria",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 376,
+      "city": "Konstancin-Jeziorna",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 377,
+      "city": "Piaseczno",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 378,
+      "city": "Tarczyn",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 379,
+      "city": "Drobin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 380,
+      "city": "Gąbin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 381,
+      "city": "Wyszogród",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 382,
+      "city": "Płońsk",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 383,
+      "city": "Raciąż",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 384,
+      "city": "Piastów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 385,
+      "city": "Pruszków",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 386,
+      "city": "Brwinów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 387,
+      "city": "Przasnysz",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 388,
+      "city": "Chorzele",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 389,
+      "city": "Przysucha",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 390,
+      "city": "Pułtusk",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 391,
+      "city": "Pionki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 392,
+      "city": "Iłża",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 393,
+      "city": "Skaryszew",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 394,
+      "city": "Mordy",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 395,
+      "city": "Sierpc",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 396,
+      "city": "Sochaczew",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 397,
+      "city": "Sokołów Podlaski",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 398,
+      "city": "Kosów Lacki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 399,
+      "city": "Szydłowiec",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 400,
+      "city": "Błonie",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 401,
+      "city": "Łomianki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 402,
+      "city": "Ożarów Mazowiecki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 403,
+      "city": "Węgrów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 404,
+      "city": "Łochów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 405,
+      "city": "Kobyłka",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 406,
+      "city": "Marki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 407,
+      "city": "Ząbki",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 408,
+      "city": "Zielonka",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 409,
+      "city": "Radzymin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 410,
+      "city": "Tłuszcz",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 411,
+      "city": "Wołomin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 412,
+      "city": "Wyszków",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 413,
+      "city": "Zwoleń",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 414,
+      "city": "Bieżuń",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 415,
+      "city": "Żuromin",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 416,
+      "city": "Żyrardów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 417,
+      "city": "Mszczonów",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 418,
+      "city": "Ostrołęka",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 419,
+      "city": "Płock",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 420,
+      "city": "Radom",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 421,
+      "city": "Siedlce",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 422,
+      "city": "Brzeg",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 423,
+      "city": "Grodków",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 424,
+      "city": "Lewin Brzeski",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 425,
+      "city": "Baborów",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 426,
+      "city": "Głubczyce",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 427,
+      "city": "Kietrz",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 428,
+      "city": "Kędzierzyn-Koźle",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 429,
+      "city": "Byczyna",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 430,
+      "city": "Kluczbork",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 431,
+      "city": "Wołczyn",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 432,
+      "city": "Gogolin",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 433,
+      "city": "Krapkowice",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 434,
+      "city": "Zdzieszowice",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 435,
+      "city": "Namysłów",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 436,
+      "city": "Głuchołazy",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 437,
+      "city": "Korfantów",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 438,
+      "city": "Nysa",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 439,
+      "city": "Otmuchów",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 440,
+      "city": "Paczków",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 441,
+      "city": "Dobrodzień",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 442,
+      "city": "Gorzów Śląski",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 443,
+      "city": "Olesno",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 444,
+      "city": "Praszka",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 445,
+      "city": "Niemodlin",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 446,
+      "city": "Ozimek",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 447,
+      "city": "Prószków",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 448,
+      "city": "Biała",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 449,
+      "city": "Głogówek",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 450,
+      "city": "Prudnik",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 451,
+      "city": "Kolonowskie",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 452,
+      "city": "Leśnica",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 453,
+      "city": "Strzelce Opolskie",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 454,
+      "city": "Ujazd",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 455,
+      "city": "Zawadzkie",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 456,
+      "city": "Opole",
+      "voivodeship": "OPOLSKIE"
+    },
+    {
+      "id": 457,
+      "city": "Ustrzyki Dolne",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 458,
+      "city": "Brzozów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 459,
+      "city": "Dębica",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 460,
+      "city": "Brzostek",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 461,
+      "city": "Pilzno",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 462,
+      "city": "Jarosław",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 463,
+      "city": "Radymno",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 464,
+      "city": "Pruchnik",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 465,
+      "city": "Jasło",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 466,
+      "city": "Kołaczyce",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 467,
+      "city": "Kolbuszowa",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 468,
+      "city": "Dukla",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 469,
+      "city": "Iwonicz-Zdrój",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 470,
+      "city": "Jedlicze",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 471,
+      "city": "Rymanów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 472,
+      "city": "Leżajsk",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 473,
+      "city": "Nowa Sarzyna",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 474,
+      "city": "Lubaczów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 475,
+      "city": "Cieszanów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 476,
+      "city": "Narol",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 477,
+      "city": "Oleszyce",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 478,
+      "city": "Łańcut",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 479,
+      "city": "Mielec",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 480,
+      "city": "Przecław",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 481,
+      "city": "Radomyśl Wielki",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 482,
+      "city": "Nisko",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 483,
+      "city": "Rudnik nad Sanem",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 484,
+      "city": "Ulanów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 485,
+      "city": "Przeworsk",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 486,
+      "city": "Kańczuga",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 487,
+      "city": "Sieniawa",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 488,
+      "city": "Ropczyce",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 489,
+      "city": "Sędziszów Małopolski",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 490,
+      "city": "Dynów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 491,
+      "city": "Błażowa",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 492,
+      "city": "Boguchwała",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 493,
+      "city": "Głogów Małopolski",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 494,
+      "city": "Sokołów Małopolski",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 495,
+      "city": "Tyczyn",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 496,
+      "city": "Sanok",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 497,
+      "city": "Zagórz",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 498,
+      "city": "Stalowa Wola",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 499,
+      "city": "Zaklików",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 500,
+      "city": "Strzyżów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 501,
+      "city": "Baranów Sandomierski",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 502,
+      "city": "Nowa Dęba",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 503,
+      "city": "Lesko",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 504,
+      "city": "Krosno",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 505,
+      "city": "Przemyśl",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 506,
+      "city": "Rzeszów",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 507,
+      "city": "Tarnobrzeg",
+      "voivodeship": "PODKARPACKIE"
+    },
+    {
+      "id": 508,
+      "city": "Augustów",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 509,
+      "city": "Lipsk",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 510,
+      "city": "Choroszcz",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 511,
+      "city": "Czarna Białostocka",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 512,
+      "city": "Łapy",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 513,
+      "city": "Michałowo",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 514,
+      "city": "Supraśl",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 515,
+      "city": "Suraż",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 516,
+      "city": "Tykocin",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 517,
+      "city": "Wasilków",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 518,
+      "city": "Zabłudów",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 519,
+      "city": "Bielsk Podlaski",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 520,
+      "city": "Brańsk",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 521,
+      "city": "Grajewo",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 522,
+      "city": "Rajgród",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 523,
+      "city": "Szczuczyn",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 524,
+      "city": "Hajnówka",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 525,
+      "city": "Kleszczele",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 526,
+      "city": "Kolno",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 527,
+      "city": "Stawiski",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 528,
+      "city": "Jedwabne",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 529,
+      "city": "Nowogród",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 530,
+      "city": "Goniądz",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 531,
+      "city": "Knyszyn",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 532,
+      "city": "Mońki",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 533,
+      "city": "Sejny",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 534,
+      "city": "Siemiatycze",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 535,
+      "city": "Drohiczyn",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 536,
+      "city": "Dąbrowa Białostocka",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 537,
+      "city": "Krynki",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 538,
+      "city": "Sokółka",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 539,
+      "city": "Suchowola",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 540,
+      "city": "Wysokie Mazowieckie",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 541,
+      "city": "Ciechanowiec",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 542,
+      "city": "Czyżew",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 543,
+      "city": "Szepietowo",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 544,
+      "city": "Zambrów",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 545,
+      "city": "Białystok",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 545,
+      "city": "Warszawa",
+      "voivodeship": "MAZOWIECKIE"
+    },
+    {
+      "id": 546,
+      "city": "Łomża",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 547,
+      "city": "Suwałki",
+      "voivodeship": "PODLASKIE"
+    },
+    {
+      "id": 548,
+      "city": "Bytów",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 549,
+      "city": "Miastko",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 550,
+      "city": "Chojnice",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 551,
+      "city": "Brusy",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 552,
+      "city": "Czersk",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 553,
+      "city": "Człuchów",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 554,
+      "city": "Czarne",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 555,
+      "city": "Debrzno",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 556,
+      "city": "Pruszcz Gdański",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 557,
+      "city": "Kartuzy",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 558,
+      "city": "Żukowo",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 559,
+      "city": "Kościerzyna",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 560,
+      "city": "Kwidzyn",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 561,
+      "city": "Prabuty",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 562,
+      "city": "Lębork",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 563,
+      "city": "Łeba",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 564,
+      "city": "Malbork",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 565,
+      "city": "Nowy Staw",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 566,
+      "city": "Krynica Morska",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 567,
+      "city": "Nowy Dwór Gdański",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 568,
+      "city": "Hel",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 569,
+      "city": "Jastarnia",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 570,
+      "city": "Puck",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 571,
+      "city": "Władysławowo",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 572,
+      "city": "Ustka",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 573,
+      "city": "Kępice",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 574,
+      "city": "Czarna Woda",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 575,
+      "city": "Skórcz",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 576,
+      "city": "Starogard Gdański",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 577,
+      "city": "Skarszewy",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 578,
+      "city": "Tczew",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 579,
+      "city": "Gniew",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 580,
+      "city": "Pelplin",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 581,
+      "city": "Reda",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 582,
+      "city": "Rumia",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 583,
+      "city": "Wejherowo",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 584,
+      "city": "Dzierzgoń",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 585,
+      "city": "Sztum",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 586,
+      "city": "Gdańsk",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 587,
+      "city": "Gdynia",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 588,
+      "city": "Słupsk",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 589,
+      "city": "Sopot",
+      "voivodeship": "POMORSKIE"
+    },
+    {
+      "id": 590,
+      "city": "Będzin",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 591,
+      "city": "Czeladź",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 592,
+      "city": "Wojkowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 593,
+      "city": "Siewierz",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 594,
+      "city": "Sławków",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 595,
+      "city": "Szczyrk",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 596,
+      "city": "Czechowice-Dziedzice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 597,
+      "city": "Wilamowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 598,
+      "city": "Cieszyn",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 599,
+      "city": "Ustroń",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 600,
+      "city": "Wisła",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 601,
+      "city": "Skoczów",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 602,
+      "city": "Strumień",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 603,
+      "city": "Blachownia",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 604,
+      "city": "Koniecpol",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 605,
+      "city": "Knurów",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 606,
+      "city": "Pyskowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 607,
+      "city": "Sośnicowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 608,
+      "city": "Toszek",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 609,
+      "city": "Kłobuck",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 610,
+      "city": "Krzepice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 611,
+      "city": "Lubliniec",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 612,
+      "city": "Woźniki",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 613,
+      "city": "Łaziska Górne",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 614,
+      "city": "Mikołów",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 615,
+      "city": "Orzesze",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 616,
+      "city": "Myszków",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 617,
+      "city": "Koziegłowy",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 618,
+      "city": "Żarki",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 619,
+      "city": "Pszczyna",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 620,
+      "city": "Racibórz",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 621,
+      "city": "Krzanowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 622,
+      "city": "Kuźnia Raciborska",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 623,
+      "city": "Czerwionka-Leszczyny",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 624,
+      "city": "Kalety",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 625,
+      "city": "Miasteczko Śląskie",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 626,
+      "city": "Radzionków",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 627,
+      "city": "Tarnowskie Góry",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 628,
+      "city": "Bieruń",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 629,
+      "city": "Imielin",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 630,
+      "city": "Lędziny",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 631,
+      "city": "Pszów",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 632,
+      "city": "Radlin",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 633,
+      "city": "Rydułtowy",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 634,
+      "city": "Wodzisław Śląski",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 635,
+      "city": "Poręba",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 636,
+      "city": "Zawiercie",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 637,
+      "city": "Łazy",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 638,
+      "city": "Ogrodzieniec",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 639,
+      "city": "Pilica",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 640,
+      "city": "Szczekociny",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 641,
+      "city": "Żywiec",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 642,
+      "city": "Bielsko-Biała",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 643,
+      "city": "Bytom",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 644,
+      "city": "Chorzów",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 645,
+      "city": "Częstochowa",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 646,
+      "city": "Dąbrowa Górnicza",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 647,
+      "city": "Gliwice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 648,
+      "city": "Jastrzębie-Zdrój",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 649,
+      "city": "Jaworzno",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 650,
+      "city": "Katowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 651,
+      "city": "Mysłowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 652,
+      "city": "Piekary Śląskie",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 653,
+      "city": "Ruda Śląska",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 654,
+      "city": "Rybnik",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 655,
+      "city": "Siemianowice Śląskie",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 656,
+      "city": "Sosnowiec",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 657,
+      "city": "Świętochłowice",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 658,
+      "city": "Tychy",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 659,
+      "city": "Zabrze",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 660,
+      "city": "Żory",
+      "voivodeship": "ŚLĄSKIE"
+    },
+    {
+      "id": 661,
+      "city": "Busko-Zdrój",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 662,
+      "city": "Stopnica",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 663,
+      "city": "Jędrzejów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 664,
+      "city": "Małogoszcz",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 665,
+      "city": "Sędziszów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 666,
+      "city": "Kazimierza Wielka",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 667,
+      "city": "Skalbmierz",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 668,
+      "city": "Bodzentyn",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 669,
+      "city": "Chęciny",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 670,
+      "city": "Chmielnik",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 671,
+      "city": "Daleszyce",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 672,
+      "city": "Końskie",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 673,
+      "city": "Stąporków",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 674,
+      "city": "Opatów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 675,
+      "city": "Ożarów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 676,
+      "city": "Ostrowiec Świętokrzyski",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 677,
+      "city": "Ćmielów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 678,
+      "city": "Kunów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 679,
+      "city": "Działoszyce",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 680,
+      "city": "Pińczów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 681,
+      "city": "Sandomierz",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 682,
+      "city": "Koprzywnica",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 683,
+      "city": "Zawichost",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 684,
+      "city": "Skarżysko-Kamienna",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 685,
+      "city": "Suchedniów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 686,
+      "city": "Starachowice",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 687,
+      "city": "Wąchock",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 688,
+      "city": "Osiek",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 689,
+      "city": "Połaniec",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 690,
+      "city": "Staszów",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 691,
+      "city": "Włoszczowa",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 692,
+      "city": "Kielce",
+      "voivodeship": "ŚWIĘTOKRZYSKIE"
+    },
+    {
+      "id": 693,
+      "city": "Bartoszyce",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 694,
+      "city": "Górowo Iławeckie",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 695,
+      "city": "Bisztynek",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 696,
+      "city": "Sępopol",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 697,
+      "city": "Braniewo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 698,
+      "city": "Frombork",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 699,
+      "city": "Pieniężno",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 700,
+      "city": "Działdowo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 701,
+      "city": "Lidzbark",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 702,
+      "city": "Młynary",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 703,
+      "city": "Pasłęk",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 704,
+      "city": "Tolkmicko",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 705,
+      "city": "Ełk",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 706,
+      "city": "Giżycko",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 707,
+      "city": "Ryn",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 708,
+      "city": "Iława",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 709,
+      "city": "Lubawa",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 710,
+      "city": "Kisielice",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 711,
+      "city": "Susz",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 712,
+      "city": "Zalewo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 713,
+      "city": "Kętrzyn",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 714,
+      "city": "Korsze",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 715,
+      "city": "Reszel",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 716,
+      "city": "Lidzbark Warmiński",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 717,
+      "city": "Orneta",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 718,
+      "city": "Mrągowo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 719,
+      "city": "Mikołajki",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 720,
+      "city": "Nidzica",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 721,
+      "city": "Nowe Miasto Lubawskie",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 722,
+      "city": "Olecko",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 723,
+      "city": "Barczewo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 724,
+      "city": "Biskupiec",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 725,
+      "city": "Dobre Miasto",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 726,
+      "city": "Jeziorany",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 727,
+      "city": "Olsztynek",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 728,
+      "city": "Ostróda",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 729,
+      "city": "Miłakowo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 730,
+      "city": "Miłomłyn",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 731,
+      "city": "Morąg",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 732,
+      "city": "Biała Piska",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 733,
+      "city": "Orzysz",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 734,
+      "city": "Pisz",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 735,
+      "city": "Ruciane-Nida",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 736,
+      "city": "Szczytno",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 737,
+      "city": "Pasym",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 738,
+      "city": "Gołdap",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 739,
+      "city": "Węgorzewo",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 740,
+      "city": "Elbląg",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 741,
+      "city": "Olsztyn",
+      "voivodeship": "WARMIŃSKO-MAZURSKIE"
+    },
+    {
+      "id": 742,
+      "city": "Chodzież",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 743,
+      "city": "Margonin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 744,
+      "city": "Szamocin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 745,
+      "city": "Czarnków",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 746,
+      "city": "Krzyż Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 747,
+      "city": "Trzcianka",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 748,
+      "city": "Wieleń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 749,
+      "city": "Gniezno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 750,
+      "city": "Czerniejewo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 751,
+      "city": "Kłecko",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 752,
+      "city": "Trzemeszno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 753,
+      "city": "Witkowo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 754,
+      "city": "Borek Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 755,
+      "city": "Gostyń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 756,
+      "city": "Krobia",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 757,
+      "city": "Pogorzela",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 758,
+      "city": "Poniec",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 759,
+      "city": "Grodzisk Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 760,
+      "city": "Rakoniewice",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 761,
+      "city": "Wielichowo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 762,
+      "city": "Jaraczewo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 763,
+      "city": "Jarocin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 764,
+      "city": "Żerków",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 765,
+      "city": "Stawiszyn",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 766,
+      "city": "Kępno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 767,
+      "city": "Koło",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 768,
+      "city": "Dąbie",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 769,
+      "city": "Kłodawa",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 770,
+      "city": "Przedecz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 771,
+      "city": "Golina",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 772,
+      "city": "Kleczew",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 773,
+      "city": "Rychwał",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 774,
+      "city": "Sompolno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 775,
+      "city": "Ślesin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 776,
+      "city": "Kościan",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 777,
+      "city": "Czempiń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 778,
+      "city": "Krzywiń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 779,
+      "city": "Śmigiel",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 780,
+      "city": "Sulmierzyce",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 781,
+      "city": "Kobylin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 782,
+      "city": "Koźmin Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 783,
+      "city": "Krotoszyn",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 784,
+      "city": "Zduny",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 785,
+      "city": "Osieczna",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 786,
+      "city": "Rydzyna",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 787,
+      "city": "Międzychód",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 788,
+      "city": "Sieraków",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 789,
+      "city": "Lwówek",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 790,
+      "city": "Nowy Tomyśl",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 791,
+      "city": "Opalenica",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 792,
+      "city": "Zbąszyń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 793,
+      "city": "Oborniki",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 794,
+      "city": "Rogoźno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 795,
+      "city": "Ostrów Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 796,
+      "city": "Nowe Skalmierzyce",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 797,
+      "city": "Odolanów",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 798,
+      "city": "Raszków",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 799,
+      "city": "Grabów nad Prosną",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 800,
+      "city": "Mikstat",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 801,
+      "city": "Ostrzeszów",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 802,
+      "city": "Piła",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 803,
+      "city": "Łobżenica",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 804,
+      "city": "Ujście",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 805,
+      "city": "Wyrzysk",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 806,
+      "city": "Wysoka",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 807,
+      "city": "Chocz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 808,
+      "city": "Dobrzyca",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 809,
+      "city": "Pleszew",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 810,
+      "city": "Luboń",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 811,
+      "city": "Puszczykowo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 812,
+      "city": "Buk",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 813,
+      "city": "Kostrzyn",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 814,
+      "city": "Kórnik",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 815,
+      "city": "Mosina",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 816,
+      "city": "Murowana Goślina",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 817,
+      "city": "Pobiedziska",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 818,
+      "city": "Stęszew",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 819,
+      "city": "Swarzędz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 820,
+      "city": "Bojanowo",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 821,
+      "city": "Jutrosin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 822,
+      "city": "Miejska Górka",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 823,
+      "city": "Rawicz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 824,
+      "city": "Słupca",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 825,
+      "city": "Zagórów",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 826,
+      "city": "Obrzycko",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 827,
+      "city": "Ostroróg",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 828,
+      "city": "Pniewy",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 829,
+      "city": "Szamotuły",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 830,
+      "city": "Wronki",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 831,
+      "city": "Środa Wielkopolska",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 832,
+      "city": "Dolsk",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 833,
+      "city": "Książ Wielkopolski",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 834,
+      "city": "Śrem",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 835,
+      "city": "Turek",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 836,
+      "city": "Dobra",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 837,
+      "city": "Tuliszków",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 838,
+      "city": "Wągrowiec",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 839,
+      "city": "Gołańcz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 840,
+      "city": "Skoki",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 841,
+      "city": "Wolsztyn",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 842,
+      "city": "Miłosław",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 843,
+      "city": "Nekla",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 844,
+      "city": "Pyzdry",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 845,
+      "city": "Września",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 846,
+      "city": "Złotów",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 847,
+      "city": "Jastrowie",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 848,
+      "city": "Krajenka",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 849,
+      "city": "Okonek",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 850,
+      "city": "Kalisz",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 851,
+      "city": "Konin",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 852,
+      "city": "Leszno",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 853,
+      "city": "Poznań",
+      "voivodeship": "WIELKOPOLSKIE"
+    },
+    {
+      "id": 854,
+      "city": "Białogard",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 855,
+      "city": "Karlino",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 856,
+      "city": "Tychowo",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 857,
+      "city": "Choszczno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 858,
+      "city": "Drawno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 859,
+      "city": "Pełczyce",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 860,
+      "city": "Recz",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 861,
+      "city": "Czaplinek",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 862,
+      "city": "Drawsko Pomorskie",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 863,
+      "city": "Kalisz Pomorski",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 864,
+      "city": "Złocieniec",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 865,
+      "city": "Goleniów",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 866,
+      "city": "Maszewo",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 867,
+      "city": "Nowogard",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 868,
+      "city": "Stepnica",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 869,
+      "city": "Gryfice",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 870,
+      "city": "Płoty",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 871,
+      "city": "Trzebiatów",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 872,
+      "city": "Cedynia",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 873,
+      "city": "Chojna",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 874,
+      "city": "Gryfino",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 875,
+      "city": "Mieszkowice",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 876,
+      "city": "Moryń",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 877,
+      "city": "Trzcińsko-Zdrój",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 878,
+      "city": "Dziwnów",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 879,
+      "city": "Golczewo",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 880,
+      "city": "Kamień Pomorski",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 881,
+      "city": "Międzyzdroje",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 882,
+      "city": "Wolin",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 883,
+      "city": "Kołobrzeg",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 884,
+      "city": "Gościno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 885,
+      "city": "Bobolice",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 886,
+      "city": "Polanów",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 887,
+      "city": "Sianów",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 888,
+      "city": "Barlinek",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 889,
+      "city": "Dębno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 890,
+      "city": "Myślibórz",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 891,
+      "city": "Nowe Warpno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 892,
+      "city": "Police",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 893,
+      "city": "Lipiany",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 894,
+      "city": "Pyrzyce",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 895,
+      "city": "Darłowo",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 896,
+      "city": "Sławno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 897,
+      "city": "Stargard",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 898,
+      "city": "Chociwel",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 899,
+      "city": "Dobrzany",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 900,
+      "city": "Ińsko",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 901,
+      "city": "Suchań",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 902,
+      "city": "Szczecinek",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 903,
+      "city": "Barwice",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 904,
+      "city": "Biały Bór",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 905,
+      "city": "Borne Sulinowo",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 906,
+      "city": "Świdwin",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 907,
+      "city": "Połczyn-Zdrój",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 908,
+      "city": "Wałcz",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 909,
+      "city": "Człopa",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 910,
+      "city": "Mirosławiec",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 911,
+      "city": "Tuczno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 912,
+      "city": "Dobra",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 913,
+      "city": "Łobez",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 914,
+      "city": "Resko",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 915,
+      "city": "Węgorzyno",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 916,
+      "city": "Koszalin",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 917,
+      "city": "Szczecin",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    },
+    {
+      "id": 918,
+      "city": "Świnoujście",
+      "voivodeship": "ZACHODNIOPOMORSKIE"
+    }
+]
+  
